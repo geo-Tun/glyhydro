@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/glyhydro.svg)](https://anaconda.org/conda-forge/glyhydro)
 
 
-**A python package for calculating capillary rise in hydrological analysis**
+**A python package for geospatial and hydro analysis** 
 
 
 -   Free software: MIT License
@@ -13,5 +13,5 @@
     
 
 ## Features
-
--   TODO
+Hydrology
+Geographic information
